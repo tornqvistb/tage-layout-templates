@@ -13,5 +13,15 @@
 				/stocketstartpagetemplate.png
 			</thumbnail-path>
 		</layout-template>
+		<layout-template id="stockettagepagetemplate"
+			name="Stocket Tagepage Template">
+			<template-path>/stockettagepagetemplate.tpl</template-path>
+			<wap-template-path>
+				/stockettagepagetemplate.wap.tpl
+			</wap-template-path>
+			<thumbnail-path>
+				/stockettagepagetemplate.png
+			</thumbnail-path>
+		</layout-template>
 	</custom>
 </layout-templates>
