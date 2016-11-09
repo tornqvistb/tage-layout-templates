@@ -23,5 +23,25 @@
 				/stockettagepagetemplate.png
 			</thumbnail-path>
 		</layout-template>
+		<layout-template id="stocket2colspagetemplate"
+			name="Stocket 2 columns Template">
+			<template-path>/stocket2colspagetemplate.tpl</template-path>
+			<wap-template-path>
+				/stocket2colspagetemplate.wap.tpl
+			</wap-template-path>
+			<thumbnail-path>
+				/stocket2colspagetemplate.png
+			</thumbnail-path>
+		</layout-template>
+		<layout-template id="stocketnewspagetemplate"
+			name="Stocket Newspage Template">
+			<template-path>/stocketnewspagetemplate.tpl</template-path>
+			<wap-template-path>
+				/stocketnewspagetemplate.wap.tpl
+			</wap-template-path>
+			<thumbnail-path>
+				/stocketnewspagetemplate.png
+			</thumbnail-path>
+		</layout-template>
 	</custom>
 </layout-templates>

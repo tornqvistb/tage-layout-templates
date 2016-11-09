@@ -25,21 +25,5 @@
 			$processor.processColumn("column-7", "portlet-column-content portlet-column-content-last")
 		</div>
 	</div>
-	<div class="portlet-layout row-fluid">
-		<div class="portlet-column portlet-column-first span3" id="column-8">
-			$processor.processColumn("column-8", "portlet-column-content portlet-column-content-first")
-		</div>
-		<div class="portlet-column span3" id="column-9">
-			$processor.processColumn("column-9", "portlet-column-content")
-		</div>
-		<div class="portlet-column span3" id="column-10">
-			$processor.processColumn("column-10", "portlet-column-content")
-		</div>
-		<div class="portlet-column portlet-column-last span3" id="column-11">
-			$processor.processColumn("column-11", "portlet-column-content portlet-column-content-last")
-		</div>
-	</div>
-
-
 
 </div>
