@@ -43,5 +43,15 @@
 				/stocketnewspagetemplate.png
 			</thumbnail-path>
 		</layout-template>
+		<layout-template id="stocket1colpagetemplate"
+			name="Stocket 1 column Template">
+			<template-path>/stocket1colpagetemplate.tpl</template-path>
+			<wap-template-path>
+				/stocket1colpagetemplate.wap.tpl
+			</wap-template-path>
+			<thumbnail-path>
+				/stocket1colpagetemplate.png
+			</thumbnail-path>
+		</layout-template>
 	</custom>
 </layout-templates>
