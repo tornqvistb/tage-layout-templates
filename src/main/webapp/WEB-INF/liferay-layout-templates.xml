@@ -53,5 +53,15 @@
 				/stocket1colpagetemplate.png
 			</thumbnail-path>
 		</layout-template>
+		<layout-template id="stocketreglerpagetemplate"
+			name="Stocket Reglerpage Template">
+			<template-path>/stocketreglerpagetemplate.tpl</template-path>
+			<wap-template-path>
+				/stocketreglerpagetemplate.wap.tpl
+			</wap-template-path>
+			<thumbnail-path>
+				/stocketreglerpagetemplate.png
+			</thumbnail-path>
+		</layout-template>
 	</custom>
 </layout-templates>
